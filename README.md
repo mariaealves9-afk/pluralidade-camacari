@@ -2,6 +2,8 @@
 
 **Projeto Integrador - Mapeando as Juventudes de Camaçari**
 
+Pesquisadores: Ana Luiza Oliveira, Anna Carolina Borges, Layze Queiroz, Maria Barbosa e Valter de Santana.
+
 *Introdução*
 
  A Cidade do Saber é um importante centro de educação, cultura e esporte de Camaçari. Seu objetivo é oferecer oportunidades de aprendizado, desenvolvimento pessoal e inclusão social para pessoas de diferentes idades. A variedade de cursos e atividades demonstra a pluralidade presente no município. Nessa pesquisa iremos apresentar algumas das diferentes atividades oferecidas, entre elas temos: esporte, dança, teatro, linguagens, cultura e desenvolvimento social.
@@ -30,6 +32,8 @@ _**5. Minha Experiência na Cidade do Saber**_
  
 _Mini Entrevista_
 
+**Entrevistada1: Maria Barbosa.**
+
 Pergunta: O que a Cidade do Saber representa para você?
 
 Resposta: Representa um espaço de aprendizado, convivência e crescimento pessoal, onde pessoas de diferentes idades podem desenvolver seus talentos.
@@ -42,10 +46,12 @@ Pergunta: Qual a importância da Cidade do Saber para Camaçari?
 
 Resposta: Ela oferece acesso à cultura, ao esporte e à educação, contribuindo para a inclusão social e para o desenvolvimento da população. O curso de inglês, que eu mesma já cheguei a fazer, abre muitas portas para o mundo profissional e ver isso em uma instituição gratuita se assemelha a um sonho.
 
+**Entrevistada2: Layze Queiroz.**
+
 # Conclusão
 
  A Cidade do Saber é muito mais do que um centro de atividades; ela é um espaço de transformação social, aprendizado e desenvolvimento para a população de Camaçari. Por meio do esporte, da dança, do teatro, das linguagens e de diversas outras áreas, a instituição oferece oportunidades que contribuem para a formação pessoal, cultural e profissional de crianças, jovens e adultos.
 
  Sua pluralidade está presente na diversidade de cursos, projetos e experiências oferecidas, permitindo que cada pessoa descubra talentos, desenvolva habilidades e amplie seus conhecimentos. Além disso, a Cidade do Saber fortalece a inclusão social e o acesso à cultura, à educação e ao esporte.
 
- A partir da pesquisa realizada e da experiência pessoal com a ginástica rítmica, foi possível compreender a importância desse espaço para a comunidade. A Cidade do Saber continua sendo uma referência em Camaçari, incentivando sonhos, promovendo oportunidades e contribuindo para a construção de uma sociedade mais participativa, criativa e preparada para o futuro.
+ A partir da pesquisa realizada e das diversas experiências pessoais, foi possível compreender a importância desse espaço para a comunidade. A CDS continua sendo uma referência em Camaçari, incentivando sonhos, promovendo oportunidades e contribuindo para a construção de uma sociedade mais participativa, criativa e preparada para o futuro.

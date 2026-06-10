@@ -1,4 +1,4 @@
-# Cidade do Saber de Camaçari: Um Espaço de Pluralidade
+# Cidade do Saber: Um Espaço de Pluralidade em Camaçari
 
 **Projeto Integrador - Mapeando as Juventudes de Camaçari**
 
@@ -26,27 +26,39 @@ _**4. Linguagens e Educação**_
 
  A Cidade do Saber também investe na formação educacional dos alunos. Ao longo dos anos, foram oferecidos cursos de idiomas, como inglês e espanhol, além de atividades ligadas à leitura, produção textual e outras formas de comunicação. Esses cursos ampliam as oportunidades acadêmicas e profissionais dos participantes. O aprendizado de novas línguas contribui para a formação de cidadãos mais preparados para os desafios do mundo atual.
 
-_**5. Minha Experiência na Cidade do Saber**_
+_**5. Experiências Pessoais na Cidade do Saber**_
 
  A CDS faz parte da minha história. Eu participei das aulas de ginástica rítmica, uma experiência que contribuiu para meu desenvolvimento pessoal. Durante esse período, aprendi valores importantes como disciplina, dedicação, responsabilidade e convivência em grupo. O espaço também oferece atividades para diversas idades, algo bem interessante era que minha avó também estava lá e fazia hidroginástica. Essa vivência me permitiu compreender na prática como a instituição ajuda crianças e adultos a desenvolverem seus talentos e construírem novas oportunidades para o futuro.
  
-_Mini Entrevista_
+**_Mini Entrevista_**
 
-**Entrevistada1: Maria Barbosa.**
+**Entrevistada1: Maria de Fátima Alves, 65.**
 
 Pergunta: O que a Cidade do Saber representa para você?
 
-Resposta: Representa um espaço de aprendizado, convivência e crescimento pessoal, onde pessoas de diferentes idades podem desenvolver seus talentos.
+Resposta: Pra mim representou um espaço de aprendizado, convivência e crescimento pessoal, onde pessoas de diferentes idades podem desenvolver seus talentos.
 
 Pergunta: Qual foi sua experiência mais marcante?
 
-Resposta: Saindo um pouco das aulas, o momento de contato com novas pessoas e diferentes práticas abriu minha mente quando eu ainda era uma criança.
+Resposta: Alguns dos momentos mais marcantes para mim foi o contato com novas pessoas e o acesso gratuito à atividades corporais, participei por anos das atividades de hidroginástica e ajudou muito a minha saúde.
 
 Pergunta: Qual a importância da Cidade do Saber para Camaçari?
 
-Resposta: Ela oferece acesso à cultura, ao esporte e à educação, contribuindo para a inclusão social e para o desenvolvimento da população. O curso de inglês, que eu mesma já cheguei a fazer, abre muitas portas para o mundo profissional e ver isso em uma instituição gratuita se assemelha a um sonho.
+Resposta: Ela oferece acesso à cultura, ao esporte e à educação, contribuindo para a inclusão social e para o desenvolvimento da população. O curso de inglês, que minha neta já fez, abre muitas portas para o mundo profissional e ver isso em uma instituição gratuita se assemelha a um sonho.
 
-**Entrevistada2: Layze Queiroz.**
+**Entrevistada2: Layze Queiroz, 16.**
+
+Pergunta: O que a Cidade do Saber representa para você?
+
+Resposta : A Cidade do Saber representa um lugar de aprendizado, arte e transformação. Foi através do teatro que encontrei um espaço para desenvolver minha criatividade, minha confiança e minha forma de me expressar.
+
+Pergunta: Qual foi sua experiência mais marcante?
+ 
+Resposta: Minha experiência mais marcante foi subir ao palco e participar de apresentações teatrais. Cada ensaio me ensinou lições importantes sobre dedicação e trabalho em equipe.
+
+Pergunta: Qual a importância da Cidade do Saber para Camaçari?
+
+Resposta: A Cidade do Saber é fundamental para Camaçari porque oferece oportunidades de acesso à cultura, à educação e às artes. Por meio do teatro e de outras atividades, ela contribui para a formação de cidadãos mais criativos, conscientes e preparados para o futuro.
 
 # Conclusão
 

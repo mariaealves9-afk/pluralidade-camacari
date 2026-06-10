@@ -29,6 +29,7 @@ _**5. Minha Experiência na Cidade do Saber**_
  A CDS faz parte da minha história. Eu participei das aulas de ginástica rítmica, uma experiência que contribuiu para meu desenvolvimento pessoal. Durante esse período, aprendi valores importantes como disciplina, dedicação, responsabilidade e convivência em grupo. O espaço também oferece atividades para diversas idades, algo bem interessante era que minha avó também estava lá e fazia hidroginástica. Essa vivência me permitiu compreender na prática como a instituição ajuda crianças e adultos a desenvolverem seus talentos e construírem novas oportunidades para o futuro.
  
 _Mini Entrevista_
+
 Pergunta: O que a Cidade do Saber representa para você?
 
 Resposta: Representa um espaço de aprendizado, convivência e crescimento pessoal, onde pessoas de diferentes idades podem desenvolver seus talentos.

@@ -16,7 +16,7 @@ A tradição esportiva da Cidade do Saber também inclui modalidades como futebo
 
 _**2. Dança: arte, cultura e expressão**_
 
- A dança é uma das manifestações culturais mais presentes na Cidade do Saber. O espaço oferece diferentes modalidades e promove apresentações artísticas que valorizam a cultura local e estimulam a criatividade dos alunos. Entre as atividades já ofertadas estão balé, dança contemporânea, dança moderna e dança de salão. Além do aprendizado técnico, a dança contribui para a autoestima, a expressão corporal e o desenvolvimento da sensibilidade artística dos participantes.
+  A dança é uma das manifestações culturais mais presentes na Cidade do Saber. O espaço oferece diferentes modalidades e promove apresentações artísticas que valorizam a cultura local e estimulam a criatividade dos alunos. Entre as atividades já ofertadas estão balé, dança contemporânea, dança moderna e dança de salão. Além do aprendizado técnico, a dança contribui para a autoestima, a expressão corporal e o desenvolvimento da sensibilidade artística dos participantes.
 
 _**3. Teatro: criatividade e comunicação**_
 
